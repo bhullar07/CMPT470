@@ -1,1 +1,1 @@
-# CMPT470 - Project
+# CMPT470
